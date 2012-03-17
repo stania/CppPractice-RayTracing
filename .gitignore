@@ -8,3 +8,7 @@
 *.sdf
 *.opensdf
 *.suo
+*.exe
+*.out
+*.o
+*.swp
